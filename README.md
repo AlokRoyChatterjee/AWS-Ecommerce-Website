@@ -12,30 +12,6 @@ This sample code is made available under a modified MIT license. See the LICENSE
 &nbsp;
 
 ## Outline
-
-- [Overview](#overview)
-- [Instructions](#instructions)
-  - [Getting started](#getting-started)
-  - [Cleaning up](#cleaning-up)
-- [Architecture](#architecture)
-- [Implementation details](#implementation-details)
-  - [Amazon DynamoDB](#amazon-dynamodb)
-  - [Amazon API Gateway](#amazon-api-gateway)
-  - [AWS Lambda](#aws-lambda)
-  - [Amazon ElastiCache for Redis](#amazon-elasticache-for-redis)
-  - [Amazon Neptune](#amazon-neptune)
-  - [Amazon ElasticSearch](#amazon-elasticsearch)
-  - [AWS IAM](#aws-iam)
-  - [Amazon Cognito](#amazon-cognito)
-  - [Amazon Cloudfront and Amazon S3](#amazon-cloudfront-and-amazon-s3)
-  - [Amazon VPC](#amazon-vpc)
-  - [Amazon Cloudwatch](#amazon-cloudwatch)
-  - [AWS CodeCommit, AWS CodePipeline, AWS CodeBuild](#aws-codecommit-aws-codepipeline-aws-codebuild)
-- [Considerations for demo purposes](#considerations-for-demo-purposes)
-- [Known limitations](#known-limitations)
-- [Additions, forks, and contributions](#additions-forks-and-contributions)
-- [Questions and contact](#questions-and-contact)
-
 &nbsp;
 
 ## Overview
