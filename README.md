@@ -1,13 +1,6 @@
 ## AWS Bookstore Demo App
 
-AWS Bookstore Demo App is a full-stack sample web application that creates a storefront (and backend) for customers to shop for fictitious books. The entire application can be created with a single CloudFormation template. [Try out the deployed application here](https://d2h3ljlsmzojxz.cloudfront.net/)!
-
-You can browse and search for books, look at recommendations and best sellers, manage your cart, checkout, view your orders, and more.  Get started with building your own below!
-&nbsp;
-
-## License Summary
-
-This sample code is made available under a modified MIT license. See the LICENSE file.
+AWS Bookstore Demo App is a full-stack sample web application that creates a storefront (and backend) for customers to shop for fictitious books. The entire application can be created with a single CloudFormation template.
 
 &nbsp;
 
