@@ -1,9 +1,4 @@
-## This AWS Ecommerce Website is a multi-tier ecommerce web application was developed using React, HTML, typescript, and Javascript
-
-&nbsp;
-
-## Outline
-&nbsp;
+## This AWS multi-tier Ecommerce Website was developed using React, HTML, typescript, and Javascript
 
 ## Overview
 
