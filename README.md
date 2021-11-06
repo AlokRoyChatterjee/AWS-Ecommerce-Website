@@ -13,7 +13,7 @@ Build artifacts are stored in a S3 bucket where web application assets are maint
 The core of the backend infrastructure consists of Amazon Cognito, Amazon DynamoDB, AWS Lambda, and Amazon API Gateway. The application leverages Amazon Cognito for user authentication, and Amazon DynamoDB to store all of the data for books, orders, and the checkout cart. As books and orders are added, Amazon DynamoDB Streams push updates to AWS Lambda functions that update the Amazon Elasticsearch cluster and Amazon ElasticCache for Redis cluster. Amazon Elasticsearch powers search functionality for books. Amazon ElasticCache for Redis powers the books leaderboard.
 Example: AddToCart Lambda function that adds a specified book to the user's cart. Price is included in this function's request so that the price is passed into the cart table in DynamoDB.
 
-## Amazon CloudFront hosts the web application frontend and gets web pages and images from S3.
+## Amazon CloudFront hosts the web application frontend and gets web pages and images from S3 cloud storage using data from buckets.
 ## Database components
 ## Amazon Cognito is used for login and user accounts
 * Amazon Cognito passes the CognitoIdentityID or customerID for every user and all Amazon API Gateway requests to Lambda functions
