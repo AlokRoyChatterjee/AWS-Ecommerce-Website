@@ -3,7 +3,6 @@
 ## Overview
 
 This AWS Ecommerce Website uses multiple purpose-built AWS databases for its features and native AWS components like Amazon API Gateway and AWS CodePipeline. This website has user accounts, a shopping cart, product search and a top sellers list. 
-This website uses a CloudFormation template:
 
 ## Database components
 
