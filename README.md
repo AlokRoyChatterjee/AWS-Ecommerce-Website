@@ -2,7 +2,7 @@
 
 ## Overview
 
-The goal of the AWS Bookstore Demo App is to provide a fully-functional web application that utilizes multiple purpose-built AWS databases and native AWS components like Amazon API Gateway and AWS CodePipeline. Increasingly, modern web apps are built using a multitude of different databases. Developers break their large applications into individual components and select the best database for each job. Let's consider the AWS Bookstore Demo App as an example. The app contains multiple experiences such a shopping cart, product search and a top sellers list. For each of these use cases, the app makes use of a purpose-built database.
+This AWS Ecommerce Website uses multiple purpose-built AWS databases for its features and native AWS components like Amazon API Gateway and AWS CodePipeline. This website has user accounts, a shopping cart, product search and a top sellers list. 
 This website uses a CloudFormation template:
 
 ## Database components
